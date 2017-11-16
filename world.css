@@ -1,0 +1,19 @@
+h1{
+	color:#fff;
+	background-color:#008080;
+	height: 10%;
+}
+
+p,#controls{
+	font-size:14px;
+	font-family: Arial;
+}
+
+#lookup{
+	border-radius: 2px;
+	border: 1px solid teal;
+}
+
+h2{
+	color:teal;
+}
